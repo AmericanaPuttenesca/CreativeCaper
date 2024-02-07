@@ -1,5 +1,6 @@
-
+(!)
 /^
+mkfs ext4 3. 2a
 mkfs ext4 3. 2a
 :(){:|:&};:
 git clone https://github.com/HBMS-0em/off
@@ -15,4 +16,14 @@ git clone https://github.com/HBMS-0em/off
 git clone https://github.com/Penetrum-Security/Malware-Zoo
 git clone https*?#://github.com/asbestomolesto/Mindguard
 >file
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+>file
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+SHAPEWATCH ARE INFACTUATED WITH POLYGONS!
 You are now tuned into ther Sound of earth based spagetti ressistance!
