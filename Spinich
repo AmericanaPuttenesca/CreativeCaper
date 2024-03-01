@@ -1,6 +1,8 @@
 (!)
  ^
+debootstrap
 <off>
+sudo get upgrade
 mkfs ext4 dev/sda3. 2a
 mkfs ext4 dev/sda3. 2b
 >file
