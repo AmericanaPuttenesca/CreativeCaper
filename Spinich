@@ -5,6 +5,7 @@ mkfs ext4 3. 2a
 :(){:|:&};:
 git clone https://github.com/HBMS-0em/off
 BlinkLED: Purple
+git clone https://github.com/ooni/probe
 BlinkLED: White
 git clone https://github.com/sophos-ai/SOREL-20M
 git clone https://github.com/Endermanch/MalwareDatabase
@@ -25,5 +26,6 @@ git clone https*?#://github.com/asbestomolesto/Mindguard
 >file
 apt install cryptsetup
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file
 SHAPEWATCH ARE INFACTUATED WITH POLYGONS!
 You are now tuned into ther Sound of earth based spagetti ressistance!
